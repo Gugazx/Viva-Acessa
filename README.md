@@ -63,7 +63,9 @@ https://gugazx.github.io/Viva-Acessa/
 
 ![Tela do Sistema](assets/Captura%20de%20tela%202026-05-27%20101824.png)
 
+![Eventos](assets/Eventos.png)
 
+![Acessibilidade](assets/Acessibilidade.png)
 
 ---
 
