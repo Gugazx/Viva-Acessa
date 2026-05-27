@@ -45,6 +45,14 @@ Desenvolver uma plataforma WEB intuitiva e acessível para melhorar a comunicaç
 
 ---
 
+## Acesso ao Projeto
+
+🔗 Link do site publicado:
+
+https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO/
+
+---
+
 ## Imagens do Projeto
 
 ![Tela Inicial](imagem1.png)
