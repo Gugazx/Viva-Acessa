@@ -57,9 +57,13 @@ https://gugazx.github.io/Viva-Acessa/
 
 ![Tela Inicial](assets/Inicial.png)
 
-![Tela de Login](assets/Captura de tela 2026-05-27 101704.png)
+![Login](assets/Captura%20de%20tela%202026-05-27%20101704.png)
 
-![Painel Administrativo](imagem3.png)
+![Cadastro](assets/cadastro.png)
+
+![Tela do Sistema](assets/Captura%20de%20tela%202026-05-27%20101824.png)
+
+
 
 ---
 
