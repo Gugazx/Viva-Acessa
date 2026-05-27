@@ -49,7 +49,7 @@ Desenvolver uma plataforma WEB intuitiva e acessível para melhorar a comunicaç
 
 🔗 Link do site publicado:
 
-https://SEUUSUARIO.github.io/NOME-DO-REPOSITORIO/
+https://gugazx.github.io/Viva-Acessa/
 
 ---
 
