@@ -1,3 +1,9 @@
+# 🔗 Link do video publicado:
+
+https://youtu.be/6uERSFYgg2Y?si=2-29ZW3IxP_miZzf
+
+---
+
 # Inclui+
 
 Projeto desenvolvido com foco em acessibilidade, inclusão digital e organização de informações para ONGs que atendem pessoas com deficiência.
